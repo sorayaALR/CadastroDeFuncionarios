@@ -16,5 +16,4 @@ CRUD completo em javascript para cadastro de funcionários no banco de dados, le
 </div>
 
 <br>
-<h3>O projeto pode ser visto em:</h3>
- https://sorayaribeiro.github.io/CRUD-Funcionarios/
+
