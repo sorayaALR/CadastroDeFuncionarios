@@ -11,9 +11,9 @@ CRUD completo em javascript para cadastro de funcionários no banco de dados, le
 
 <h3>Imagem do projeto:</h3>
 <div>
-<img width="500px" src="https://i.imgur.com/INcUktI.png" alt="iamgem do projeto" >
+<img width="500px" src="https://i.imgur.com/INcUktI.png" alt="iamgem do projeto" ><br><br>
 <img width="500px" src="https://i.imgur.com/73tBT7g.png" alt="iamgem do projeto" >
 </div>
 
-<br>
+
 
